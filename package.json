@@ -1,0 +1,17 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "A sandbox for Vue School's Jest testing course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "NoahLE",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.3.0",
+    "jest": "^25.3.0"
+  }
+}
