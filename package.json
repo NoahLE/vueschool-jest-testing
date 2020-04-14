@@ -4,7 +4,9 @@
   "description": "A sandbox for Vue School's Jest testing course",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:debug:watch": "jest --runInBand --watch"
   },
   "author": "NoahLE",
   "license": "MIT",
